@@ -1,7 +1,7 @@
 # Restoring-the-lifeblood-of-Maji-Ndogo
 
 ## Project Overview
-This project analyzes **water accessibility and crisis** in Maji Ndogo using SQL. It explores key factors affecting water distribution and identifies solutions to improve access.  
+This project analyzes **water accessibility and crisis** in Maji Ndogo using SQL. It explores key factors affecting water distribution and Insights.
 
 ## Dataset Information
 - **Key Attributes (Tables)**
@@ -35,3 +35,10 @@ Some of the Key findings and Insights are;
   - Queues are very long on Saturdays.
   - Queues are longer in the mornings and evenings.
   - Wednesdays and Sundays have the shortest queues.
+
+# Notes
+The data used for this project is the **md_water_services.sql** file
+
+## Reference 
+1. ALX Data Science
+2. ExploreAI Academy
